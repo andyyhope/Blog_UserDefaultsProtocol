@@ -5,7 +5,7 @@
 
 Swift 3 brought a tsunami of changes to the language as well as our codebase, some of you reading this may even still be battling with the migration too. But even with all these changes, we’re still left with some  APIs within Foundation that are stringly typed, which is totally fine… Until it’s not.
 
-Read the full article [here](https://medium.com/swift-programming/swift-typecasing-3cd156c323e#.e4kj5iojj)
+Read the full article on [Medium](https://medium.com/@AndyyHope)
 
 --
 
